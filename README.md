@@ -33,14 +33,19 @@
 <h3>Learning projects</h3>
 <details> 
 <summary>Finished</summary>
-- 
+ <ul>
+   <li>Profile README</li>
+  </ul> 
 </details>
 
 <details> 
  <summary>In progress</summary>
- - upgrade 1 to Profile README
- - Digital Resume
- - First project
+ <ul>
+   <li>upgrade 1 to Profile README</li>
+   <li>Digital Resume</li>
+   <li>First project</li>
+ </ul>
+
 </details>
 <hr style="width: 300px;">
 </div>
