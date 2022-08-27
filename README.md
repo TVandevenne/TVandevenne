@@ -15,7 +15,7 @@
 :crossed_swords: Massive RPG fan (and dreaming of being a :whale: rider) <br>
 <hr>
 
-<center> 
+<div align="center"> 
 <h3>Software Skills</h3>
 <p>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,7 +43,7 @@
  - First project
 </details>
 <hr style="width: 300px;">
-</center>
+</div>
 
 <div id="header" align="center">
   Contact me <br><br>
