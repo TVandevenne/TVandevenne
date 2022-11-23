@@ -3,16 +3,16 @@
  <h2>Hoi, Hi, Bom dia and Kia ora :vulcan_salute:<br>
  So good to see you </h2> 
  
-<p>I have been teaching computer science for since 2002 and absolutely love it. I have always felt I was missing something by not having experience in the private sector. Having been told #nevertooold, I am working my way towards an interesting opportunity.</p>
-<p> :briefcase: Currently Working as a Head of Faculty and Director of IT </p>
+<p>I have been teaching computer science for since 2002 and absolutely love it. I have always felt I was missing something by not having experience in the private sector. Having been told #neverTooOld, I am working my way towards an interesting opportunity.</p>
+<p> :briefcase: Currently working as a Head of Faculty and Director of IT </p>
 <p>But who knows, next time I could be a Software engineer.</p>
 
 <hr>
 
-:gear: I'm interested in front-end and Cloud <br>
-:space_invader: Currently thinkering on AWS and Azure <br>
-:medal_sports: 2022 goal: AWS/Azure certificate + GitHub projects<br>
-:crossed_swords: Massive RPG fan (and dreaming of being a :whale: rider) <br>
+:gear: I'm interested in front-end, Scrum and Cloud <br>
+:space_invader: Currently thinkering on React and Scrum certificate <br>
+:medal_sports: 2022 goal: Scrum certificate + GitHub projects<br>
+:crossed_swords: Massive RPG fan (and also dreaming of being a :whale: rider) <br>
 <hr>
 
 <div align="center"> 
