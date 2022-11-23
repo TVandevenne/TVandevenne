@@ -3,9 +3,9 @@
  <h2>Hoi, Hi, Bom dia and Kia ora :vulcan_salute:<br>
  So good to see you </h2> 
  
-<p>I have been teaching computer science for 20 years and absolutely love it. I have always felt I was missing something by not having experience in the private sector. Having been told #nevertooold, I am working my way towards an interesting opportunity.</p>
-<p> :briefcase: Currently Working as a Head of department </p>
-<p>Who knows, next time I could be a Software engineer.</p>
+<p>I have been teaching computer science for since 2002 and absolutely love it. I have always felt I was missing something by not having experience in the private sector. Having been told #nevertooold, I am working my way towards an interesting opportunity.</p>
+<p> :briefcase: Currently Working as a Head of Faculty and Director of IT </p>
+<p>But who knows, next time I could be a Software engineer.</p>
 
 <hr>
 
