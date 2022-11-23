@@ -9,7 +9,7 @@
 
 <hr>
 
-:gear: I'm interested in front-end, Scrum and Cloud <br>
+:gear: I'm interested in front-end, Python, Scrum and Cloud <br>
 :space_invader: Currently thinkering on React and Scrum certificate <br>
 :medal_sports: 2022 goal: Scrum certificate + GitHub projects<br>
 :crossed_swords: Massive RPG fan (and also dreaming of being a :whale: rider) <br>
