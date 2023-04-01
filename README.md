@@ -4,8 +4,7 @@
  So good to see you </h2> 
  
 <p>I have been teaching computer science for since 2002 and absolutely love it. I have always felt I was missing something by not having experience in the private sector. Having been told #neverTooOld, I am working my way towards an interesting opportunity.</p>
-<p> :briefcase: Currently working as a Director of IT  in education</p>
-<p>But who knows, next time I could be a Software engineer.</p>
+<p> :briefcase: Currently working as a Director of IT  in education, but who knows, next time I could be an Agile Coach or Software engineer.</p>
 
 <hr>
 
