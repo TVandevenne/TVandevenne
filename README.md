@@ -39,9 +39,9 @@
 
 <details> 
  <summary>In progress</summary>
-   upgrade 1 to Profile README
-   Digital Resume
-   First project
+   upgrade 1 to Profile README <br>
+   Digital Resume<br>
+   First project<br>
 </details>
 <hr style="width: 300px;">
 </div>
