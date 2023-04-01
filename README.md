@@ -32,9 +32,9 @@
 <h3>Learning projects</h3>
 <details> 
 <summary>Finished</summary>
- <ul>
-   <li>Profile README</li>
-  </ul> 
+ 
+   Profile README
+  
 </details>
 
 <details> 
